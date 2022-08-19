@@ -1,2 +1,2 @@
 # RFRL-Net
-[Tensorflow] Improving robusntess and transferability using Robust Feature Representation Learning Network
+[Tensorflow] Feature Representation Learning for Robust Retinal Disease Detection from Optical Coherence Tomography Images
