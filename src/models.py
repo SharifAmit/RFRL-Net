@@ -9,7 +9,7 @@ from keras.applications.mobilenet_v2 import MobileNetV2
 from keras.applications.resnet50 import ResNet50
 from keras.applications.vgg16 import VGG16
 
-def vgg_16(input_size,num_of_classes):    
+def VGG16_RFRL(input_size,num_of_classes):    
     f1, f2 = [], []
     input_shape = (image_size,image_size,3)
     base_model = VGG16(weights='imagenet',include_top=False,pooling=None,input_shape=input_shape)
