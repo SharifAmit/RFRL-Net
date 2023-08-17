@@ -1,6 +1,6 @@
 # MICCAI-OMIA2022 RFRL-Network
 
-This code is for our paper "Feature Representation Learning for Robust Retinal Disease Detection from Optical Coherence Tomography Images" which is part of the supplementary materials for MICCAI 2022 9th Ophthalmic Medical Image Analysis (OMIA) Workshop. The paper has since been accpeted at MICCAI-OMIA 2022.
+This code is for our paper "Feature Representation Learning for Robust Retinal Disease Detection from Optical Coherence Tomography Images" which is part of the supplementary materials for MICCAI 2022 9th Ophthalmic Medical Image Analysis (OMIA) Workshop. The paper has since been accepted at MICCAI-OMIA 2022.
 
 
 ![](img.png?)
