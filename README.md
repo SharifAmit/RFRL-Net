@@ -12,7 +12,7 @@ https://link.springer.com/chapter/10.1007/978-3-031-16525-2_3
 
 ### Arxiv Pre-print
 ```
-https://arxiv.org/pdf/2101.00535v2
+https://arxiv.org/abs/2206.12136
 ```
 
 # Citation
